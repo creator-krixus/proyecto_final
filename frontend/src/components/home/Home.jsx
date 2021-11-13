@@ -8,6 +8,7 @@ export default function Home() {
             <h3>Maritza</h3>
             <h3>Gabriela</h3>
             <h4>Yon</h4>
+            <h5>Nicolas</h5>
         </div>
     )
 }
