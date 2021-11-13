@@ -6,6 +6,8 @@ export default function Home() {
             <h2>Bienvenido</h2>
             <h1>Secretaria de Movilidad</h1>
             <h3>Maritza</h3>
+            <h3>Gabriela</h3>
+
         </div>
     )
 }
