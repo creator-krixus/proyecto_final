@@ -5,6 +5,7 @@ export default function Home() {
         <div className="col-auto text-center p-3">
             <h2>Bienvenido</h2>
             <h1>Secretaria de Movilidad</h1>
+            <h3>Maritza</h3>
         </div>
     )
 }
