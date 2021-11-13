@@ -9,6 +9,7 @@ export default function Home() {
             <h3>Gabriela</h3>
             <h4>Yon</h4>
             <h5>Nicolas</h5>
+            <p>Hola como estas?</p>
         </div>
     )
 }
