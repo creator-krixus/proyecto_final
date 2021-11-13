@@ -7,7 +7,7 @@ export default function Home() {
             <h1>Secretaria de Movilidad</h1>
             <h3>Maritza</h3>
             <h3>Gabriela</h3>
-
+            <h4>Yon</h4>
         </div>
     )
 }
